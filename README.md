@@ -1,4 +1,4 @@
-# This repo demonstrates how to get strated with Redux and Redux Tookkit
+# This repo demonstrates how to get strated with Redux and Redux Toolkit
 
 ## EC6 Javascript
 ### cd redux
